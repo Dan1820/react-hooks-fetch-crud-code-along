@@ -31,10 +31,16 @@
       "isInCart": false
     },
     {
-      "id": 6,
-      "name": "Cookies",
+      "name": "maziwa lala",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "cookies",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
